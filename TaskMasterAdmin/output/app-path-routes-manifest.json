@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/dashboard/account/page": "/dashboard/account",
+  "/dashboard/banners/page": "/dashboard/banners",
+  "/dashboard/bookings/page": "/dashboard/bookings",
+  "/dashboard/faq/page": "/dashboard/faq",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/messages/page": "/dashboard/messages",
+  "/dashboard/users/page": "/dashboard/users",
+  "/dashboard/companies/page": "/dashboard/companies"
+}

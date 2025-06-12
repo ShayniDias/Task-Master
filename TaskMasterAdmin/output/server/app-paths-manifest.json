@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/dashboard/account/page": "app/dashboard/account/page.js",
+  "/dashboard/banners/page": "app/dashboard/banners/page.js",
+  "/dashboard/bookings/page": "app/dashboard/bookings/page.js",
+  "/dashboard/faq/page": "app/dashboard/faq/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/messages/page": "app/dashboard/messages/page.js",
+  "/dashboard/users/page": "app/dashboard/users/page.js",
+  "/dashboard/companies/page": "app/dashboard/companies/page.js"
+}
