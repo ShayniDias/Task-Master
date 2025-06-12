@@ -1,0 +1,74 @@
+name: taskmaster
+description: "A new Flutter project."
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.1.1+1
+  font_awesome_flutter: ^10.4.0
+  google_fonts: ^4.0.4
+  lottie: ^2.7.0
+  animated_text_kit: ^4.2.2
+  firebase_core: ^3.12.1
+  firebase_database: ^11.3.4
+  firebase_storage: ^12.4.4
+  firebase_auth: ^5.5.1
+  image_picker: ^0.8.4+8
+  uuid: ^4.3.0
+  cached_network_image: ^3.2.0
+  intl: ^0.18.0
+  carousel_slider: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+  http: ^0.13.3
+  provider: ^6.0.0
+  animate_do: ^3.0.2
+#  speech_to_text: ^6.3.0
+  url_launcher: ^6.0.20
+  flutter_rating_bar: ^4.0.1
+  pdf: ^3.11.3
+  path_provider: ^2.1.5
+  open_file: ^3.5.10
+  printing: ^5.14.2
+  flutter_pdfview: ^1.4.0
+  table_calendar: ^3.0.9
+  payhere_mobilesdk_flutter: ^3.0.7
+
+
+
+
+
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+
+flutter:
+  assets:
+    - assets/images/logo.png
+    - assets/json/loading.json
+    - assets/json/l.json
+    - assets/icon/icon.png
+    - assets/images/whatsapp.png
+
+  uses-material-design: true
+
+

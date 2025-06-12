@@ -1,0 +1,2 @@
+D:/NSBM/Computing Individual Project/Task Master Grand Final/TaskMasterApp/android/app/.cxx/Debug/3q4l244j/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/NSBM/Computing Individual Project/Task Master Grand Final/TaskMasterApp/android/app/.cxx/Debug/3q4l244j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

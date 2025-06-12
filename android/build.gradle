@@ -1,0 +1,20 @@
+allprojects {
+    repositories {
+        google() // Make sure this is included for Firebase and other dependencies
+        mavenCentral() // This is fine for additional dependencies
+    }
+}
+
+rootProject.buildDir = "../build"  // This points the build output to a directory outside your app folder
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"  // This will separate each subproject build output
+}
+
+subprojects {
+    project.evaluationDependsOn(":app") // Ensures that :app project is evaluated before others if needed
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir  // Clean task that deletes the build directory
+}
